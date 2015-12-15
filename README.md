@@ -1,2 +1,0 @@
-# Calometer
-Repo for Calometer
